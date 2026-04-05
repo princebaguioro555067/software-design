@@ -1,5 +1,5 @@
-﻿namespace lab6
-{
+﻿namespace lab6;
+
 	partial class Form1
 	{
 		/// <summary>
@@ -36,4 +36,3 @@
 
 		#endregion
 	}
-}
