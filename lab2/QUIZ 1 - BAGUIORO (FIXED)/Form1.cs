@@ -20,7 +20,7 @@ namespace QUIZ_1___BAGUIORO__FIXED_
             Gradec2 = (c2 / items) * 85 + 15;
             Gradec3 = (c3 / items) * 85 + 15;
             sumGrades = Gradec1 + Gradec2 + Gradec3;
-            gpa1 = (sumGrades / 300);
+            gpa1 = (sumGrades / 3);
 
             lblSTD1Display.Text = $"Name:  {txtStudentName1.Text}";
             lblProgramDisplay1.Text = $"Program: {txtStudentProgram1.Text}";
@@ -43,7 +43,7 @@ namespace QUIZ_1___BAGUIORO__FIXED_
             Gradec2 = (c2 / items) * 85 + 15;
             Gradec3 = (c3 / items) * 85 + 15;
             sumGrades = Gradec1 + Gradec2 + Gradec3;
-            gpa2 = (sumGrades / 300);
+            gpa2 = (sumGrades / 3);
 
             lblSTD2Display.Text = $"Name:  {txtStudentName2.Text}";
             lblProgramDisplay2.Text = $"Program: {txtStudentProgram2.Text}";
@@ -67,7 +67,7 @@ namespace QUIZ_1___BAGUIORO__FIXED_
             Gradec2 = (c2 / items) * 85 + 15;
             Gradec3 = (c3 / items) * 85 + 15;
             sumGrades = Gradec1 + Gradec2 + Gradec3;
-            gpa3 = (sumGrades / 300);
+            gpa3 = (sumGrades / 3);
 
             lblSTD3Display.Text = $"Name:  {txtStudentName3.Text}";
             lblProgramDisplay3.Text = $"Program: {txtStudentProgram3.Text}";
@@ -84,7 +84,18 @@ namespace QUIZ_1___BAGUIORO__FIXED_
 
         private void btnClear_Click(object sender, EventArgs e)
         {
-            // Student 1
+            foreach (Control control in this.Controls)
+            {
+                if (control is TextBox)
+                {
+                    ((TextBox)control).Clear();
+                }
+                else if (control is Label)
+                {
+                    ((Label)control).Text = string.Empty;
+                }
+            }
+            /*// Student 1
             txtStudentName1.Clear();
             txtStudentProgram1.Clear();
             txtStudent1Course1.Clear();
@@ -128,6 +139,7 @@ namespace QUIZ_1___BAGUIORO__FIXED_
 
             // Average
             lblAverageGpa.Text = string.Empty;
+            */
         }
     }
 }

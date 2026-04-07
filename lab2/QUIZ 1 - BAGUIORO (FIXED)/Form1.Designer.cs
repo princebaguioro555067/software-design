@@ -189,8 +189,10 @@
             // 
             txtStudentGrade1.Location = new Point(72, 318);
             txtStudentGrade1.Name = "txtStudentGrade1";
+            txtStudentGrade1.ReadOnly = true;
             txtStudentGrade1.Size = new Size(100, 23);
             txtStudentGrade1.TabIndex = 8;
+            txtStudentGrade1.TabStop = false;
             // 
             // txtStudent1Course2
             // 
@@ -350,8 +352,10 @@
             // 
             txtStudentGrade2.Location = new Point(72, 318);
             txtStudentGrade2.Name = "txtStudentGrade2";
+            txtStudentGrade2.ReadOnly = true;
             txtStudentGrade2.Size = new Size(100, 23);
             txtStudentGrade2.TabIndex = 8;
+            txtStudentGrade2.TabStop = false;
             // 
             // lblProgramDisplay2
             // 
@@ -529,8 +533,10 @@
             // 
             txtStudentGrade3.Location = new Point(72, 318);
             txtStudentGrade3.Name = "txtStudentGrade3";
+            txtStudentGrade3.ReadOnly = true;
             txtStudentGrade3.Size = new Size(100, 23);
             txtStudentGrade3.TabIndex = 8;
+            txtStudentGrade3.TabStop = false;
             // 
             // lblProgramDisplay3
             // 
