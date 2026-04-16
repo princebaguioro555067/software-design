@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Exam 1 - Set A - BAGUIORO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6dfe5e4ff484870f899894fc57489519a4872cc3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Exam 1 - Set A - BAGUIORO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Exam 1 - Set A - BAGUIORO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

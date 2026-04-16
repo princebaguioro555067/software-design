@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CpELaboratory 216\\source\\repos\\Exam 1 - Set A - BAGUIORO\\Exam 1 - Set A - BAGUIORO\\Exam 1 - Set A - BAGUIORO.csproj": {}
+    "C:\\Users\\CpELaboratory 216\\source\\repos\\software-design\\Exam 1 - SET A\\Exam 1 - Set A - BAGUIORO\\Exam 1 - Set A - BAGUIORO\\Exam 1 - Set A - BAGUIORO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CpELaboratory 216\\source\\repos\\Exam 1 - Set A - BAGUIORO\\Exam 1 - Set A - BAGUIORO\\Exam 1 - Set A - BAGUIORO.csproj": {
+    "C:\\Users\\CpELaboratory 216\\source\\repos\\software-design\\Exam 1 - SET A\\Exam 1 - Set A - BAGUIORO\\Exam 1 - Set A - BAGUIORO\\Exam 1 - Set A - BAGUIORO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CpELaboratory 216\\source\\repos\\Exam 1 - Set A - BAGUIORO\\Exam 1 - Set A - BAGUIORO\\Exam 1 - Set A - BAGUIORO.csproj",
+        "projectUniqueName": "C:\\Users\\CpELaboratory 216\\source\\repos\\software-design\\Exam 1 - SET A\\Exam 1 - Set A - BAGUIORO\\Exam 1 - Set A - BAGUIORO\\Exam 1 - Set A - BAGUIORO.csproj",
         "projectName": "Exam 1 - Set A - BAGUIORO",
-        "projectPath": "C:\\Users\\CpELaboratory 216\\source\\repos\\Exam 1 - Set A - BAGUIORO\\Exam 1 - Set A - BAGUIORO\\Exam 1 - Set A - BAGUIORO.csproj",
+        "projectPath": "C:\\Users\\CpELaboratory 216\\source\\repos\\software-design\\Exam 1 - SET A\\Exam 1 - Set A - BAGUIORO\\Exam 1 - Set A - BAGUIORO\\Exam 1 - Set A - BAGUIORO.csproj",
         "packagesPath": "C:\\Users\\CpELaboratory 216\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CpELaboratory 216\\source\\repos\\Exam 1 - Set A - BAGUIORO\\Exam 1 - Set A - BAGUIORO\\obj\\",
+        "outputPath": "C:\\Users\\CpELaboratory 216\\source\\repos\\software-design\\Exam 1 - SET A\\Exam 1 - Set A - BAGUIORO\\Exam 1 - Set A - BAGUIORO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
